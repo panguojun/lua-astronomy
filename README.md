@@ -4,5 +4,6 @@
 *Combining the two may collide with sparks*
 
 ## Dimension
-Dimensions translate mathematics into science.
+Dimensions translate mathematics into science. It is easiest to calculate physical quantities in the same way as dimensional transformation.
+
 
