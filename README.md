@@ -11,4 +11,21 @@ cm = 0.01	-- cm
 mm = 0.001	-- mm
 
 c = 299792458 --m/s
+
+au = 149597870700 -- m 
+
+ly = 9.4607e12	-- m
+
+arc_second	= math.pi / 180.0 / 3600.0 
+
+min_arc_second = 0.01
+
+Proxima_Centauri_dis = 4.2 * ly
+
+-- distance of per arc_second per year 
+pc = (au) / arc_second -- example : pc / Proxima_Centauri_dis
+
+rad_deg = math.pi / 180.0
+
+arc_second_degree = arc_second * 180 / math.pi 
 ```
